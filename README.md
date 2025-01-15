@@ -1,10 +1,10 @@
-**Gym Landing Page**
+## Gym Landing Page
 
-**Overview**
+## Overview
 
 This project is a professional gym landing page created using **HTML**, **CSS**, and **JavaScript**. The landing page highlights the gym's services, membership options, fitness programs, and customer testimonials, with a responsive design to offer an engaging user experience.
 
-**Features**
+## Features
 
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
 - **Membership Plans**: Displays various membership packages and pricing.
@@ -13,7 +13,7 @@ This project is a professional gym landing page created using **HTML**, **CSS**,
 - **Call-to-Action (CTA)**: Includes clear buttons for user engagement, such as "Join Now" and "Learn More."
 - **Interactive Elements**: Engaging hover effects, animations, and a contact form for inquiries.
 
-**Technologies Used**
+## Technologies Used
 HTML: For the structure and layout of the webpage.
 CSS: For styling, responsive layout, and visual effects.
 JavaScript: For adding interactivity to elements, such as a working contact form and animations.
