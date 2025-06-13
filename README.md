@@ -1,5 +1,7 @@
 ## Gym Landing Page
 
+live demo link https://gymfitnesspage.netlify.app/
+
 ## Overview
 
 This project is a professional gym landing page created using **HTML**, **CSS**, and **JavaScript**. The landing page highlights the gym's services, membership options, fitness programs, and customer testimonials, with a responsive design to offer an engaging user experience.
